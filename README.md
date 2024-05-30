@@ -24,8 +24,7 @@ https://docs.databricks.com/en/admin/system-tables/index.html<BR>
 https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/<BR>
 
 ### Databricks Cost Analysis using Power BI Template
-Cost control and cross charge with power bi template on top of Databricks system tables<BR><BR>
-
+Cost control and cross charge with power bi template on top of Databricks system tables<BR>
 https://community.databricks.com/t5/technical-blog/databricks-cost-analysis-and-cross-charge-with-power-bi/ba-p/59820<BR>
 https://github.com/lipinght/Databricks-cost-analysis-using-powerbi<BR>
 
