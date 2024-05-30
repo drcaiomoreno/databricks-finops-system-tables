@@ -1,5 +1,7 @@
 # Databricks FinOps with System Tables
 
+See also this blog post: https://caiomsouza.medium.com/finops-and-databricks-system-tables-afd38b9177e1
+
 ### Introduction to Databricks System Tables
 
 System Tables are a Databricks-hosted analytical store for operational and usage data.
