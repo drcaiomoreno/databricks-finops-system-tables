@@ -29,4 +29,6 @@ https://community.databricks.com/t5/technical-blog/databricks-cost-analysis-and-
 https://github.com/lipinght/Databricks-cost-analysis-using-powerbi<BR>
 
 
+### Databricks Specialist Sessions (Observability and FinOps with Overwatch and more)
+https://vimeo.com/869043852
 
