@@ -4,18 +4,19 @@ See also this blog post: https://caiomsouza.medium.com/finops-and-databricks-sys
 
 ### Introduction to Databricks System Tables
 
-System Tables are a Databricks-hosted analytical store for operational and usage data.
+System Tables are a Databricks-hosted analytical store for operational and usage data.<BR><BR>
 
-System Tables can be used for monitoring, analyzing performance, usage, and behavior of Databricks Platform components. By querying these tables, users can gain insights into how their jobs, notebooks, users, clusters, ML endpoints, and SQL warehouses are functioning and changing over time. This historical data can be used to optimize performance, troubleshoot issues, track usage patterns, and make data-driven decisions.
+System Tables can be used for monitoring, analyzing performance, usage, and behavior of Databricks Platform components. By querying these tables, users can gain insights into how their jobs, notebooks, users, clusters, ML endpoints, and SQL warehouses are functioning and changing over time. This historical data can be used to optimize performance, troubleshoot issues, track usage patterns, and make data-driven decisions.<BR><BR>
 
-Overall, System Tables provide a means to enhance observability and gain valuable insights into the operational aspects of Databricks usage, enabling users to better understand and manage their workflows and resources.
+Overall, System Tables provide a means to enhance observability and gain valuable insights into the operational aspects of Databricks usage, enabling users to better understand and manage their workflows and resources.<BR><BR>
 
-Cost and usage analytics
-Efficiency analytics
-Audit analytics
-GDPR regulation
-Service Level Objective analytics
-Data Quality analytics
+- Cost and usage analytics
+- Efficiency analytics
+- Audit analytics
+- GDPR regulation
+- Service Level Objective analytics
+- Data Quality analytics
+
 
 ### Monitor usage in the account console
 https://docs.databricks.com/en/admin/account-settings/usage.html#monitor-usage-in-the-account-console
