@@ -17,9 +17,19 @@ GDPR regulation
 Service Level Objective analytics
 Data Quality analytics
 
+### Monitor usage in the account console
+https://docs.databricks.com/en/admin/account-settings/usage.html#monitor-usage-in-the-account-console
+
+### Best Practices for Cost Management on Databricks
+https://www.databricks.com/blog/best-practices-cost-management-databricks
+
+### Production Data Applications for AI-Driven Observability
+https://www.youtube.com/watch?v=0OxZw66Aeeo
+
 ### System Tables: Billing Forecast, Usage Analytics, and Access Auditing With Databricks Unity Catalog
 https://www.databricks.com/resources/demos/tutorials/governance/system-tables<BR>
 https://notebooks.databricks.com/demos/uc-04-system-tables/index.html#<BR>
+https://caiomsouza.medium.com/finops-and-databricks-system-tables-afd38b9177e1<BR>
 
 ### Monitor usage with system tables
 https://docs.databricks.com/en/admin/system-tables/index.html<BR>
