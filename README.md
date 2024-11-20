@@ -41,6 +41,9 @@ Cost control and cross charge with power bi template on top of Databricks system
 https://community.databricks.com/t5/technical-blog/databricks-cost-analysis-and-cross-charge-with-power-bi/ba-p/59820<BR>
 https://github.com/lipinght/Databricks-cost-analysis-using-powerbi<BR>
 
+### Cost and Usage Monitoring in Databricks AI/BI Dashboard
+https://medium.com/@dataninsight/cost-and-usage-monitoring-in-databricks-ai-bi-dashboard-dfab4e9c2b4e
+
 ### Databricks Specialist Sessions (Observability and FinOps with Overwatch and more)
 https://vimeo.com/869043852
 
