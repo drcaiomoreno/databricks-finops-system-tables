@@ -51,10 +51,9 @@ https://vimeo.com/869043852
 https://github.com/databrickslabs/ucx
 
 ### ENS (Esquema nacional de seguridad) - Spain:
-
-Azure Databricks is certified, more info here:
-https://learn.microsoft.com/es-es/compliance/regulatory/offering-ens-spain#microsoft-azure-and-ens-high
-https://news.microsoft.com/es-es/2022/10/10/microsoft-certifica-50-nuevos-servicios-de-azure-dynamics-365-y-microsoft-365-en-conformidad-con-el-nivel-alto-del-esquema-nacional-de-seguridad/
+Azure Databricks is certified, more info here:<BR>
+https://learn.microsoft.com/es-es/compliance/regulatory/offering-ens-spain#microsoft-azure-and-ens-high<BR>
+https://news.microsoft.com/es-es/2022/10/10/microsoft-certifica-50-nuevos-servicios-de-azure-dynamics-365-y-microsoft-365-en-conformidad-con-el-nivel-alto-del-esquema-nacional-de-seguridad/<BR>
 
 ### Databricks AI Security Framework (DASF)
 https://www.databricks.com/blog/introducing-databricks-ai-security-framework-dasf
