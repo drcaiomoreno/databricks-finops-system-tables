@@ -57,3 +57,8 @@ https://news.microsoft.com/es-es/2022/10/10/microsoft-certifica-50-nuevos-servic
 
 ### Databricks AI Security Framework (DASF)
 https://www.databricks.com/blog/introducing-databricks-ai-security-framework-dasf
+
+### Improve Lakehouse Security Monitoring using System Tables in Databricks Unity Catalog
+Learn how you can use System Tables to drive actionable insights and implement a Zero Trust Architecture for your lakehouse<BR>
+https://www.databricks.com/blog/improve-lakehouse-security-monitoring-using-system-tables-databricks-unity-catalog<BR>
+
