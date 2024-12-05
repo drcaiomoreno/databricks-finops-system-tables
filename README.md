@@ -62,3 +62,6 @@ https://www.databricks.com/blog/introducing-databricks-ai-security-framework-das
 Learn how you can use System Tables to drive actionable insights and implement a Zero Trust Architecture for your lakehouse<BR>
 https://www.databricks.com/blog/improve-lakehouse-security-monitoring-using-system-tables-databricks-unity-catalog<BR>
 
+### A Journey Towards Unified Data Governance at BP. Implementing Unity Catalog to Unlock New Capabilities
+https://www.databricks.com/blog/bp-unity-catalog-data-governance
+
