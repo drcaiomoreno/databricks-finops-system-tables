@@ -65,3 +65,15 @@ https://www.databricks.com/blog/improve-lakehouse-security-monitoring-using-syst
 ### A Journey Towards Unified Data Governance at BP. Implementing Unity Catalog to Unlock New Capabilities
 https://www.databricks.com/blog/bp-unity-catalog-data-governance
 
+### From Chaos to Control: A Cost Maturity Journey with Databricks
+Use a structured process to assess Databricks cost control maturity, identify usage patterns, enforce budgets, optimize workloads, and reduce unnecessary spend.<BR>
+https://www.databricks.com/blog/chaos-control-cost-maturity-journey-databricks<BR>
+
+### Unlocking Cost Optimization Insights with Databricks System Tables
+https://www.linkedin.com/pulse/unlocking-cost-optimization-insights-databricks-system-toraskar-nniaf/?trackingId=CUrzk7lzQNuIHXI2iodWYw%3D%3D
+
+### Kill Bill-ing? Revenge is a Dish Best Served Optimized with GenAI
+https://www.databricks.com/dataaisummit/session/kill-bill-ing-revenge-dish-best-served-optimized-genai
+
+
+
