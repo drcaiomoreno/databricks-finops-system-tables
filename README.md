@@ -70,10 +70,26 @@ Use a structured process to assess Databricks cost control maturity, identify us
 https://www.databricks.com/blog/chaos-control-cost-maturity-journey-databricks<BR>
 
 ### Unlocking Cost Optimization Insights with Databricks System Tables
-https://www.linkedin.com/pulse/unlocking-cost-optimization-insights-databricks-system-toraskar-nniaf/?trackingId=CUrzk7lzQNuIHXI2iodWYw%3D%3D
+https://www.linkedin.com/pulse/unlocking-cost-optimization-insights-databricks-system-toraskar-nniaf/?trackingId=CUrzk7lzQNuIHXI2iodWYw%3D%3D<BR>
 
 ### Kill Bill-ing? Revenge is a Dish Best Served Optimized with GenAI
-https://www.databricks.com/dataaisummit/session/kill-bill-ing-revenge-dish-best-served-optimized-genai
+https://www.databricks.com/dataaisummit/session/kill-bill-ing-revenge-dish-best-served-optimized-genai<BR>
+
+### Unity Catalog Demo
+https://www.databricks.com/resources/demos/tutorials/governance/system-tables<BR>
+https://www.databricks.com/resources/demos/tutorials/governance/upgrade-table-to-unity-catalog<BR>
+https://www.databricks.com/resources/demos/tutorials/data-science-and-ai/mlops-end-to-end-pipeline<BR>
+https://www.databricks.com/resources/demos/tutorials/governance/data-lineage-with-unity-catalog<BR>
+https://www.databricks.com/resources/demos/tutorials/governance/access-data-on-external-location<BR>
+https://www.databricks.com/resources/demos/tutorials/governance/table-acl-and-dynamic-views-with-uc<BR>
+
+
+
+
+
+
+
+
 
 
 
